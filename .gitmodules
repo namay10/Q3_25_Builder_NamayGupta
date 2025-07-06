@@ -1,3 +1,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/namay10/solana-starter
+[submodule "Turbin3_prereqs"]
+	path = Turbin3_prereqs
+	url = https://github.com/namay10/Turbin3_prereqs

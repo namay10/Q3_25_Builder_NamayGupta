@@ -1,0 +1,3 @@
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/namay10/solana-starter

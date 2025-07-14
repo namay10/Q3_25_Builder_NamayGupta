@@ -7,3 +7,6 @@
 [submodule "anchorEscrow"]
 	path = anchorEscrow
 	url = https://github.com/namay10/anchorEscrow
+[submodule "Anchor_Amm"]
+	path = Anchor_Amm
+	url = https://github.com/namay10/Anchor_Amm

@@ -10,6 +10,6 @@
 [submodule "Anchor_Amm"]
 	path = Anchor_Amm
 	url = https://github.com/namay10/Anchor_Amm
-[submodule "nft-staking"]
+[submodule "staking"]
 	path = staking
 	url = https://github.com/namay10/staking

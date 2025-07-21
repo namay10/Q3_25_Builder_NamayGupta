@@ -13,3 +13,6 @@
 [submodule "staking"]
 	path = staking
 	url = https://github.com/namay10/staking
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/namay10/marketplace

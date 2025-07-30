@@ -16,3 +16,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/namay10/marketplace
+[submodule "Dice_Roll"]
+	path = Dice_Roll
+	url = https://github.com/namay10/Dice_Roll
